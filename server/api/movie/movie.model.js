@@ -19,6 +19,7 @@ export default function(sequelize, DataTypes) {
     active: DataTypes.BOOLEAN,
     updatedAt: DataTypes.STRING,
     createdAt: DataTypes.STRING,
-    modifiedBy: DataTypes.STRING
+    modifiedBy: DataTypes.STRING,
+    unittype: DataTypes.STRING
   });
 }

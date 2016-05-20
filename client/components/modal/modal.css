@@ -47,19 +47,24 @@ md-dialog md-content {
   border-radius: 5px 5px 0 0;
 }
 .modal-primary .modal-header {
-  background: #428bca;
+  /* background: #428bca; */
+  background: #ec008b;
 }
 .modal-info .modal-header {
-  background: #5bc0de;
+  /* background: #5bc0de; */
+  background: #d4007d;
 }
 .modal-success .modal-header {
-  background: #5cb85c;
+  /* background: #5cb85c; */
+  background: #ec008b;
 }
 .modal-warning .modal-header {
-  background: #f0ad4e;
+  /* background: #f0ad4e; */
+  background: #ec008b;
 }
 .modal-danger .modal-header {
-  background: #d9534f;
+  /* background: #d9534f; */
+  background: #ec008b;
 }
 .datetime-picker-dropdown > li.date-picker-menu div > table .btn-default {
     border: 0;
